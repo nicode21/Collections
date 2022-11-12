@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\bin\Debug\netcoreapp3.1\AuthorAgeFilter.exe
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\bin\Debug\netcoreapp3.1\AuthorAgeFilter.deps.json
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\bin\Debug\netcoreapp3.1\AuthorAgeFilter.runtimeconfig.json
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\bin\Debug\netcoreapp3.1\AuthorAgeFilter.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\bin\Debug\netcoreapp3.1\AuthorAgeFilter.dll
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\bin\Debug\netcoreapp3.1\AuthorAgeFilter.pdb
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.dll
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.pdb
+C:\Users\User\Desktop\Materials\Collections c#\AuthorAgeFilter\AuthorAgeFilter\AuthorAgeFilter\obj\Debug\netcoreapp3.1\AuthorAgeFilter.genruntimeconfig.cache
